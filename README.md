@@ -1,13 +1,5 @@
----
-title: Broken Bone
-emoji: 🐨
-colorFrom: indigo
-colorTo: green
-sdk: gradio
-sdk_version: 4.36.1
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+# Try out [Here](https://pgeurin.github.io/broken-bones/) 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Transfer learning to distriguish broken from unbroken bones with just 300 samples taken from the internet (duckduckgo).
+
+Built on Pytorch and fastAI.
